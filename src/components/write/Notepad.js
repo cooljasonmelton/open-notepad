@@ -26,9 +26,6 @@ class Notepad extends React.Component {
         return text.trim().split(" ").length - 1
     }
     
-    
-
-
     render(){
         return (
         <div className="Notepad">

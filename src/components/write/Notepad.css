@@ -3,23 +3,23 @@
     width: 100%;
     height: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     flex-direction: column;
     color: #C2847A;
-
 }
 
 .text-area{
-    margin: 2em;
+    margin: 1em 0;
     width: 50%;
-    height: 50%;
+    height: 70%;
     background-color: black;
     border-style: none;
     color: #C2847A;
     font-size: 2rem;
-    padding: 2em;
     outline: none;
+    line-height: 1.7em;
+
 }
 
 .info-box{
